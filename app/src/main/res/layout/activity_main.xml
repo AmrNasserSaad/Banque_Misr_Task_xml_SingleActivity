@@ -53,7 +53,7 @@
             android:layout_marginTop="8dp"
             android:drawableStart="@drawable/baseline_arrow_circle_right_24"
             android:drawablePadding="16dp"
-            android:text="talkha // elmansoura  "
+            android:text="@string/TalkhaElmansoura"
             android:textColor="#000"
             android:textSize="24sp"
             app:layout_constraintStart_toStartOf="parent"
